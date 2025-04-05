@@ -2,8 +2,6 @@
 
 Welcome to the **Blackjack Game** – a simple yet engaging terminal-based card game built with Python. This game lets you test your luck and strategy against a computerized dealer using the classic rules of Blackjack (also known as 21).
 
-![Blackjack Banner](https://user-images.githubusercontent.com/674621/129486268-7e2f6dc3-882e-490a-8ec2-2fa60e2dd2e6.png)
-
 ---
 
 ## 📂 Repository Contents
